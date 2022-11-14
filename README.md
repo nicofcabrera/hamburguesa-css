@@ -15,4 +15,4 @@ Link del deploy: [Hamburguesa CSS](https://marvelous-bombolone-f25a35.netlify.ap
 
 _Gracias por ver :)_
 
-[![Logo Linkedin](https://cdn-icons-png.flaticon.com/24/1384/1384014.png "Ir a Linkedin de Nicolas Cabrera")](https://www.linkedin.com/in/nicolas-francisco-cabrera/)
+[![Logo Linkedin](https://cdn-icons-png.flaticon.com/24/179/179330.png "Ir a Linkedin de Nicolas Cabrera")](https://www.linkedin.com/in/nicolas-francisco-cabrera/)
